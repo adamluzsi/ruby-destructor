@@ -1,1 +1,1 @@
-Destructor::VERSION = '0.0.1'
+Destructor::VERSION = '0.1.0'
