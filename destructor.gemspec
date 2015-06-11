@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Destructor::VERSION
   spec.authors       = ['Adam Luzsi']
   spec.email         = ['adamluzsi@gmail.com']
-  spec.summary       = %q{Destructor callback for Ruby class instances}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Add Destructor callback for Ruby class instances}
+  spec.description   = %q{Add finalize method callback for Ruby instances on class definition}
   spec.homepage      = 'https://github.com/adamluzsi/ruby-destructor'
   spec.license       = 'MIT'
 
